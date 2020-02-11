@@ -8,3 +8,18 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+sidenav:
+  - title: "Java"
+    children:
+      - title: "Data Structures"
+        url:
+      - title: "Streams"
+        url:
+
+  - title: "Spring"
+    children:
+      - title: "Test"
+        url:
+      - title: "Test2"
+        url:

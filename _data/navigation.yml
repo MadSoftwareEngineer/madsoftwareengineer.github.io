@@ -12,9 +12,9 @@ main:
 sidenav:
   - title: "Java"
     children:
-      - title: "Data Structures"
+      - title: "Test"
         url:
-      - title: "Streams"
+      - title: "Test2"
         url:
 
   - title: "Spring"
